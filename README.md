@@ -1,73 +1,99 @@
-# Welcome to your Lovable project
+ <h1 align="center"> 👋 مرحباً، أنا فارس أحمد </h1>
+ 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Software+Engineer;I'm+FrontEnd+Developer;I'm+Programmer" />
+</h1>
+<p align="center">
+   👋🏼 I'm <strong>Fares</strong>, a passionate <span style="color:#00a8cc;">Web Developer</span> from  Egypt.
+</p>
 
-## Project info
+<div align="center">
+  <a href="https://code-craft-nine-swart.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Code_Craft-2196F3?style=for-the-badge&logoColor=white" alt="Code Craft" width="150"/>
+  </a>
+</div>
 
-**URL**: https://lovable.dev/projects/840da8a6-e18c-4cf1-ae32-28f2316aae31
+## 🚀 مطور برمجيات متخصص في بناء تطبيقات ويب حديثة
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/840da8a6-e18c-4cf1-ae32-28f2316aae31) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```javascript
+const developer = {
+    name: "Fares Ahmed",
+    role: "FrontEnd Developer",
+    location: "Egypt 🇪🇬",
+    code: ["JavaScript", "TypeScript", "React", "Node.js"],
+    passion: "Building scalable web applications",
+    motto: "Clean code, better solutions"
+};
 ```
 
-**Edit a file directly in GitHub**
+## 🛠️ المهارات التقنية
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Frontend:** `React` `Next.js` `TypeScript` `Tailwind CSS` `HTML5` `CSS3`
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Tools & Others:** `Git` `Docker` `AWS` `Postman` `VS Code`
 
-## What technologies are used for this project?
+## 🏆 المشاريع البارزة
 
-This project is built with:
+### 📖 موقع القرآن الكريم
+**التقنيات:** React + JavaScript + CSS3
+- 🕌 واجهة مستخدم إسلامية أنيقة ومريحة
+- 🎧 تشغيل التلاوات بجودة عالية
+- 🔍 بحث متقدم في الآيات والسور
+- 📱 تصميم متجاوب لجميع الأجهزة
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 🎮 منصة الألعاب الترفيهية
+**التقنيات:** HTML5 + JavaScript + Canvas API
+- 🎯 مجموعة من 35 لعبة تفاعلية متنوعة
+- ⚡ أداء سلس وسريع لجميع الألعاب
+- 🏆 نظام نقاط وإنجازات للمستخدمين
+- 🎨 تصميم ممتع وألوان جذابة
 
-## How can I deploy this project?
+### 🛠️ موقع الأدلة اليومية
+**التقنيات:** React + Node.js + MongoDB
+- 📚 مجموعة شاملة من 40 دليل مفيد
+- 🔄 محتوى محدث باستمرار
+- 🌟 تقييم وتعليقات المستخدمين
+- 📊 إحصائيات الاستخدام والشعبية
 
-Simply open [Lovable](https://lovable.dev/projects/840da8a6-e18c-4cf1-ae32-28f2316aae31) and click on Share -> Publish.
+### 💪 نظام إدارة الجيم
+**التقنيات:** Full Stack JavaScript + Database
+- 👥 إدارة شاملة لبيانات الأعضاء
+- 💳 تتبع الاشتراكات والمدفوعات
+- 📈 تقارير مفصلة عن الحضور والأداء
+- ⏰ جدولة التمارين والمدربين
 
-## Can I connect a custom domain to my Lovable project?
+## 🎯 ما أركز عليه حالياً
 
-Yes, you can!
+- 🔥 تطوير تطبيقات React متقدمة
+- ☁️ الحلول السحابية وArchitecture قابلة للتوسع
+- 🤖 دمج الذكاء الاصطناعي في التطبيقات
+- 📚 التعلم المستمر لأحدث التقنيات
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 💡 فلسفتي في البرمجة
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```python
+def my_approach():
+    return {
+        "code_quality": "Always clean and readable",
+        "problem_solving": "Simple solutions for complex problems", 
+        "learning": "Never stop exploring new technologies",
+        "teamwork": "Collaboration leads to innovation"
+    }
+```
+
+## 🌐 تواصل معي
+
+* 💼 **Portfolio:** [fares-ahmed-saeed.github.io/PortoFolio](https://fares-ahmed-saeed.github.io/PortoFolio/)
+* 📫 **Email:** [faresahmed2004424@gmail.com](mailto:faresahmed2004424@gmail.com)
+* 💻 **GitHub:** [Fares-ahmed-saeed](https://github.com/Fares-ahmed-saeed)
+* 💬 **LinkedIn:** [fares-ahmed-31aa70356](https://www.linkedin.com/in/fares-ahmed-31aa70356/)
+
+---
+
+### ⚡ "تحويل الأفكار إلى كود، والكود إلى حلول"
+
+> أسعى دائماً لبناء تطبيقات لا تحل المشاكل فحسب، بل تقدم تجربة استثنائية للمستخدمين
